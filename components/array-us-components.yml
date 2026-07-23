@@ -1,0 +1,57 @@
+generated: '2026-07-18'
+method: searched
+source: https://array.com/developers
+notes: >-
+  Array's core offering is a suite of white-label, embeddable consumer finance
+  product components ("embedded finance products") that clients integrate into
+  their own web and mobile experiences. Each product below is a real published
+  product surface listed on array.com; loader/SDK integration details live in
+  Array's access-gated developer documentation (docs.array.com), so per-family
+  loader libraries were not publicly harvestable this round. Live component
+  demos are showcased at https://array.com/developers/embedded-demos.
+families:
+- name: Credit
+  components:
+  - name: My Credit Manager
+    url: https://array.com/products/my-credit-manager
+  - name: BuildCredit Account
+    url: https://array.com/products/buildcredit-account
+  - name: BuildCredit Rent
+    url: https://array.com/products/buildcredit-rent
+  - name: Debt Manager
+    url: https://array.com/products/debt-manager
+  - name: Debt Navigator
+    url: https://array.com/products/debt-navigator
+- name: Identity & Privacy
+  components:
+  - name: Identity Protect
+    url: https://array.com/products/identity-protect
+  - name: Privacy Protect
+    url: https://array.com/products/privacy-protect
+  - name: Background Checks
+    url: https://array.com/products/background-checks
+- name: Offers & Engagement
+  components:
+  - name: Offers Engine
+    url: https://array.com/products/offers-engine
+  - name: Offers Place
+    url: https://array.com/products/offers-place
+  - name: Array Plus
+    url: https://array.com/products/array-plus
+  - name: Subscription Manager
+    url: https://array.com/products/subscription-manager
+- name: Financial Data & Tools
+  components:
+  - name: My Home Value
+    url: https://array.com/products/my-home-value
+  - name: Property Data
+    url: https://array.com/products/property-data
+  - name: My Money Plan
+    url: https://array.com/products/my-money-plan
+  - name: Financial Calculators
+    url: https://array.com/products/financial-calculators
+  - name: Financial Links
+    url: https://array.com/products/financial-links
+  - name: Student Loan Aid
+    url: https://array.com/products/student-loan-aid
+demos: https://array.com/developers/embedded-demos

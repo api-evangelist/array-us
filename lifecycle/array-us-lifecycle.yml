@@ -1,0 +1,13 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.array.com
+status_page: https://status.array.com
+notes: >-
+  Array publishes a live service status page at status.array.com ("Array
+  Status"). Versioning, deprecation, and SLA policy are documented in Array's
+  developer documentation, which is access-gated (docs.array.com requires a
+  client login), so those sections were not publicly harvestable this round.
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []
